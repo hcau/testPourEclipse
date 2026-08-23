@@ -5,6 +5,18 @@ package fr.caujolle.herve.maven_archetype_quickstart;
  */
 public class App {
     public static void main(String[] args) {
-        System.out.println("Hello World! dddddddddddddddddddddddddddddddddddddddddddddd");
+        System.out.println("Hello World!");
     }
+    
+    private void sysout() {
+		// TODO Auto-generated method stub
+    	int toto = 1;
+    	if(toto == 1) {
+    		System.out.println("Ah que coucou App!!!!");
+    	}
+
+	}
+    
+    
+    
 }
