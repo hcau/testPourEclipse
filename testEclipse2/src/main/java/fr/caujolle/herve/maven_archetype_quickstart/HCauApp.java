@@ -12,7 +12,8 @@ public class HCauApp {
 		// TODO Auto-generated method stub
     	int toto = 1;
     	if(toto == 1) {
-    		System.out.println("Ah que coucou!!!! branche2");
+    		System.out.println("Boîte à coucou!!!! branche2  on est dans le conflit");
+    		System.out.println("Essais de conflit!!!!");
     	}
 
 	}
