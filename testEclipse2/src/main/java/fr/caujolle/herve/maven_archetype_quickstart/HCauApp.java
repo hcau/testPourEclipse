@@ -12,7 +12,7 @@ public class HCauApp {
 		// TODO Auto-generated method stub
     	int toto = 1;
     	if(toto == 1) {
-    		System.out.println("Ah que coucou!!!! HCauApp");
+    		System.out.println("Ah que coucou!!!! branche2");
     	}
 
 	}
