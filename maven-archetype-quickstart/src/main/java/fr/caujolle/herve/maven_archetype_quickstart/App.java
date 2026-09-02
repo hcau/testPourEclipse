@@ -7,29 +7,29 @@ package fr.caujolle.herve.maven_archetype_quickstart;
  * 
  */
 public class App {
-	public static void main(String[] args) {
-		System.out.println("Hello World!");
-		
-		System.out.println(coucou(10));
-	}
+    public static void main(String[] args) {
+        for (int left = 0; left < 10; left++) {
+          for (int right = 0; right < 10; left++) {
+              System.out.println("eeeeeeee");
+          }
+        }
+    }
 
-//    
+	
 	private static int coucou(int a) {
-		// TODO Auto-generated method stub
-	 return a + 10;
-
+		totototo(); // ceci est un commentaire
+		int calcul = 450 + a;
+		return a + 2510;
 	}
-	
-	private static void totototo() {
-		// TODO Auto-generated method stub
-		
-		
-		
-		
-		
 
-	}
-	
+    private static void totototo() {
+
+        int glouglou = 4;
+
+        System.out.println(glouglou);
+        toto();
+    }
+
 	private static void toto() {
 
 		// TODO Auto-generated method stub
