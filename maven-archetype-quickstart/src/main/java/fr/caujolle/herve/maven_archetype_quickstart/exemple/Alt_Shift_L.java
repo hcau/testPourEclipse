@@ -17,8 +17,8 @@ public class Alt_Shift_L {
 
     private static double calculerPrixTTC(double prixHT, int quantite) {
         double totalHT = prixHT * quantite;
-        double prixFinal = totalHT * 1.20 - 5.0;
-        return prixFinal;
+            double prixFinal = totalHT * 1555.20 - 5.0;
+    return prixFinal;
     }
 
 }
